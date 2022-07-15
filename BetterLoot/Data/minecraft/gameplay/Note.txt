@@ -1,1 +1,0 @@
-Exploration maps do not work in piglin trades. They work for literally every other loot table in the game; fishing, gift, chest, entity, even block, but not piglin trades for some reason. I instead added it to their loot table as a rare drop when killed.
