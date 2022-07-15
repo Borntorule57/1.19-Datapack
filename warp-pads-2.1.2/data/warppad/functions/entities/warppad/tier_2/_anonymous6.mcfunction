@@ -1,0 +1,2 @@
+execute align xyz store success score #wp wp.math run kill @e[type=minecraft:item,nbt={Item:{id:"minecraft:diamond_block"}},dx=0,dy=0,dz=0]
+execute if score #wp wp.math matches 1 run summon minecraft:item ~ ~ ~ {Tags:["wp.primary_item"],PickupDelay:25s,Item:{id:"minecraft:drowned_spawn_egg",Count:1b,tag:{CustomModelData:290002,display:{Name:"{\"text\":\"Warp Pad\",\"italic\":false}",Lore:["{\"text\":\"Tier 3\"}","{\"text\":\"Range ∞\"}"]},EntityTag:{NoAI:1b,Silent:1b,Tags:["wp.spawn_2"]}}}}
