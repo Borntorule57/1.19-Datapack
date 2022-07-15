@@ -1,0 +1,17 @@
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous0
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous1
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous2
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous3
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous4
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous5
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous6
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous7
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous8
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous9
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous10
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous11
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous12
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous13
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous14
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous15
+execute as @e[type=minecraft:marker,tag=trident-entity.warppad.wp_indicator] at @s run function warppad:cosmetics/_anonymous16
