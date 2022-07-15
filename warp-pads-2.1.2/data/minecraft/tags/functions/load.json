@@ -1,0 +1,9 @@
+{
+  "values": [
+    "warppad:creation",
+    "warppad:logic",
+    "warppad:logic/warping/surprise_players",
+    "warppad:cosmetics/init_circles",
+    "warppad:trident/create_objectives"
+  ]
+}
