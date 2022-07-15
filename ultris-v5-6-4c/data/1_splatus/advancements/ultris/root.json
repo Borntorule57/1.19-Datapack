@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Ultris: Boss Expansion",
+            "color": ""
+        },
+        "description": {
+            "translate": "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.",
+            "color": "yellow"
+        },
+        "icon": {
+            
+                "item": "minecraft:enchanted_book",
+                "nbt": "{CustomModelData:87003}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/obsidian.png"
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

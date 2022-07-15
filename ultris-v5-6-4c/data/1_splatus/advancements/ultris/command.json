@@ -1,0 +1,35 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Mysterious Power",
+            "color": ""
+        },
+        "description": {
+            "translate": "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:command_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt": "{Item:{id:\"minecraft:ender_pearl\",Count:1b,tag:{display:{Name:'{\"translate\":\"Ominous Pearl\",\"color\":\"light_purple\",\"italic\":true}'},Enchantments:[{id:\"minecraft:unbreaking\",lvl:1s}]}}}"
+                        ,"items": ["command_block"]
+                
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "1_splatus:ultris/enderkill"
+}

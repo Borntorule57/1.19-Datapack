@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Double It Up!",
+            "color": ""
+        },
+        "description": {
+            "translate": "Throw a second command block at the Ultra Wither to receive more XP after defeation",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "minecraft:experience_bottle"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/ultrawither"
+}
+
+

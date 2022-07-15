@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Savior of the Souls",
+            "color": ""
+        },
+        "description": {
+            "translate": "Release all trapped souls from the Sanctum",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "minecraft:soul_lantern",
+            "nbt": "{Enchantments:[{id:\"unbreaking\",lvl:1s}]}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/sanctum/soul_trapped"
+}

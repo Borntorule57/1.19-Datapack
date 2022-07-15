@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Green Giant",
+            "color": ""
+        },
+        "description": {
+            "translate": "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:splash_potion"
+            ,"nbt": "{Potion:\"minecraft:strength\"}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/root"
+}

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Alone In The Dark..?",
+            "color": ""
+        },
+        "description": {
+            "translate": "Find a phantom all alone by itself in the vastness of the end...",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/root"
+}

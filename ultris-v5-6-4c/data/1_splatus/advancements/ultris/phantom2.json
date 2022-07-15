@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Flame Out!",
+            "color": ""
+        },
+        "description": {
+            "translate": "Set flame to a phantom in the end and remove its abillity to summon other phantoms",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/phantom"
+}
