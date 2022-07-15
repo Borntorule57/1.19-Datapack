@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Into Ashes",
+            "color": "#s"
+        },
+        "description": {
+            "translate": "Defeat the Blaze King",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "minecraft:iron_helmet",
+            "nbt": "{CustomModelData:87003,display:{Name:'{\"translate\":\"Blaze King\",\"color\":\"#FF6333\"}',Lore:['{\"translate\":\"Upon wearing, the\",\"color\":\"#FF9326\"}','{\"translate\":\"bearer when at low health will gain Strength II\",\"color\":\"#FF9326\"}']},Damage:0,enchants:[{lvl:4,id:6}],has_enchants:1b,Enchantments:[{}]}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/blazepath/kingblaze"
+}

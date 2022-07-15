@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "Awaken",
+            "color": ""
+        },
+        "description": {
+            "translate": "Awaken the blazing Ultris Boss, Blaze King",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:blaze_powder",
+            "nbt": "{}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/blazepath/blazetower"
+}
+

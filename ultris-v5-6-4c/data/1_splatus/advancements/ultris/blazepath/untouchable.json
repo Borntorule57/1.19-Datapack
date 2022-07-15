@@ -1,0 +1,34 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier"
+      },
+      "title": {
+        "translate": "Untouchable",
+        "color": ""
+      },
+      "description": [
+        {
+          "translate": "Attempt to steal Blaze King's Helmet by pressing ",
+          "color": "green"
+        },
+        {
+          "keybind": "key.use"
+        },
+        {
+          "text": " on its helmet"
+        }
+      ],
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "1_splatus:ultris/blazepath/kingblaze",
+    "criteria": {
+      "c1": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "High Sky Pyramid",
+            "color": ""
+        },
+        "description": {
+            "translate": "Discover a mysterious pyramid high above an end city",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:shulker_shell"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "1_splatus:ultris/blazepath/kingblazekill"
+}
